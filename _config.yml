@@ -34,9 +34,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AL3_zijqGXmwVFKquHgj3khqfL25RCDITHbI90OZ1meaPiq7cAyHqXuNS8nEIDsod3dhj5wMZoIdfdKk-oZRu0XbhOQ&user=O4FK3V4AAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : "https://orcid.org/0009-0008-7790-5883"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : "https://orcid.org/0009-0008-7790-5883"
+  semantic         : # URL
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Shiamiao-Chen"
   scopus           : # URL
 
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "ShimiaoChen"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
