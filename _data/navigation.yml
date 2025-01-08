@@ -10,9 +10,6 @@ main:
 
   - title: "XXXX"
     url: /xxxx/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
